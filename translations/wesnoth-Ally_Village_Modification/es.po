@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wesnoth-Ally_Village_Modification\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2025-12-30 12:41\n"
+"PO-Revision-Date: 2025-12-30 12:53-0300\n"
+"Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [modification], id=Rav_Ally_Mod
+#: Ally_Village_Modification/_main.cfg:10
+msgid "Ally Village Mod"
+msgstr "Mod Aldeas Aliadas"
+
+#. [modification], id=Rav_Ally_Mod
+#: Ally_Village_Modification/_main.cfg:11
+msgid ""
+"If setting is on, then village capture will happen normally. If off, then "
+"when moving to allied village it will not be captured by default. Either way "
+"with rightclick menu the village control can be changed until next move.\n"
+" \n"
+"version "
+msgstr ""
+"Si la configuración está activada, la captura de aldeas ocurrirá de forma normal. "
+"Si está desactivada, al mover una unidad a una aldea aliada no la capturará "
+"por defecto. De cualquier manera, con el menú del botón derecho se puede "
+"cambiar el control de la aldea hasta el siguiente movimiento.\n"
+" \n"
+"versión "
+
+#. [modification], id=Rav_Ally_Mod
+#: Ally_Village_Modification/_main.cfg:13
+msgid " by Ravana"
+msgstr " por Ravana"
+
+#. [checkbox], id=Rav_Take_Allied_Village
+#: Ally_Village_Modification/_main.cfg:20
+msgid "Default action: capture allied village?"
+msgstr "Acción predeterminada: ¿capturar aldeas aliadas?"
+
+#. [checkbox], id=Rav_Take_Allied_Village
+#: Ally_Village_Modification/_main.cfg:21
+msgid "Capture / Don't"
+msgstr "Capturar / No capturar"
+
+#. [set_menu_item], id=Rav_Ally_Mod_Take
+#: Ally_Village_Modification/_main.cfg:29
+msgid "Capture village"
+msgstr "Capturar aldea"
+
+#. [set_menu_item], id=Rav_Ally_Mod_Give
+#: Ally_Village_Modification/_main.cfg:52
+msgid "Return village"
+msgstr "Devolver aldea"

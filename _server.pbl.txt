@@ -1,0 +1,16 @@
+author="Ravana"
+description="This addon provides rightclick menu to return/take allied village when moving on it. Intended for survivals, especially for Orocia Random Mod. Has setting to choose if default behaviour when moving to allied village would be capturing it or not."
+email=""
+icon="projectiles/fire-burst-small-4.png"
+passphrase=""
+title="Ally Village Modification"
+type="mod_mp"
+version=""
+[feedback]
+    topic_id=39116
+[/feedback]
+[translation]
+    language="es"
+	title="Mod Aldeas Aliadas"
+    description="Este complemento proporciona un menú de clic derecho que permite devolver o tomar una aldea aliada al moverse sobre ella. Está pensado para partidas de supervivencia, especialmente para Orocia Random Mod. Incluye una opción para elegir si el comportamiento predeterminado al moverse a una aldea aliada será capturarla o no"
+[/translation]

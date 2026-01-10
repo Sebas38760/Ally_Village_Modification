@@ -26,3 +26,7 @@ Change default to not capture village
 1.0.6
 
 Enable singleplayer
+
+1.0.7
+
+Spanish translation by Sebas38760
